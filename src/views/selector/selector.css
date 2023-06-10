@@ -1,0 +1,19 @@
+.selector1-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding-top: 48px;
+}
+input{
+    width: 300px;
+    height: 48px;
+    font-size: 24px;
+    padding: 8px;
+    
+}
+.divider{
+    font-size: 32px;
+    color: rgb(50, 49, 49);
+}
